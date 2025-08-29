@@ -19,8 +19,6 @@ Visualizations: KPI Cards, Bar, Donut, Line, Column Charts
 Interactivity: Filters & Slicers (by Time and State)
 Skills Applied: Data Cleaning, Visualization, Storytelling with Data
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ## Files in Repository
 - `Ecommerce_Sales.pbix` → Power BI Report File  

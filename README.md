@@ -25,10 +25,7 @@ Skills Applied: Data Cleaning, Visualization, Storytelling with Data
 - `Ecommerce_Sales.pbit` → Power BI Template (without data)  
 - `Dashboard_Screenshot.png` → Preview image  
 
-## 🔑 Key Learnings
+## Key Learnings
 - Building KPI cards and trend analysis in Power BI  
 - Designing dashboards with slicers and interactive visuals  
 - Storytelling with data (highlighting insights from charts)  
-
----
-✨ *This is my first Power BI project and I plan to build more dashboards soon!*  
